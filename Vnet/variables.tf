@@ -1,0 +1,1 @@
+variable "vnetG3" {}

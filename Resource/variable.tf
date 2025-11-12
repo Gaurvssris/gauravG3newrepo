@@ -1,0 +1,1 @@
+variable "rgnewG3" {}
