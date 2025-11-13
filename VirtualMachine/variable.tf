@@ -1,0 +1,1 @@
+variable "VMnewG3" {}
