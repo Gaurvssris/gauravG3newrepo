@@ -1,0 +1,16 @@
+
+
+trigger:
+- main
+
+pool:
+  name: gaurav
+stages:
+  - stage: Build
+    jobs:
+      - job: Buildpipeline
+        steps:
+            
+  
+
+
